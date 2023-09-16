@@ -4,18 +4,28 @@ This repo focuses mainly on music.
 
 This repo is WIP so expect things to change.
 
-BGM_Jukebox_Gambit_LastBoss_Shiokara.bwav = Hero Mode / Story Mode final Boss Music
+BWAV ammount known (how many of this file I know exists) = 2
+BGM_Jukebox_Gambit_LastBoss_Shiokara.bwav
+BGM_Mission_Boss_Kumasan02.bwav
 Song Name : Calamari Inkantation 3MIX
 In Game Song Composer : Deep Cut x Squid Sisters
+My Description : Hero Mode / Story Mode final Boss Music
 
-BGM_Plaza_Fes_Day2_IdolSong.bwav = No Description
+BWAV ammount known (how many of this file I know exists) = 1
+BGM_Plaza_Fes_Day2_IdolSong.bwav
 Song Name : Anarchy Rainbow
 In Game Song Composer : Deep Cut
+No Description
 
-BGM_Plaza_Fes_Day1_BaseMusic.bwav = Festival title screen music / Background ambiance
+BWAV ammount known (how many of this file I know exists) = 1
+BGM_Plaza_Fes_Day1_BaseMusic.bwav
 Song Name : Unknown/None
 In Game Song Composer : Unknown/None
+My Desctipition : Festival title screen music / Background ambiance
 
-BGM_Versus_Thunder_02_Mastering.bwav = No Description
+BWAV ammount known (how many of this file I know exists) = 1
+BGM_Versus_Thunder_02_Mastering.bwav
 Song Name : Splattack!
 In Game Song Composer : C-Side
+No Description
+
