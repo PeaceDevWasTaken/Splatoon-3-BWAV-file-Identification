@@ -3,3 +3,5 @@ Gives a description of which BWAV sound file is which in Splatoon 3 aka that fun
 
 
 Basically tells you what BWAVS go where and their names
+
+This page is a WIP so keep that in mind!
