@@ -1,6 +1,7 @@
 This Repo is a WIP so expect changes.
 Welcome to the central hub for Identifying Splatoon 3 music/audio file names/descriptions!
 Please use CTRL + F on your keyboard to search for your file name, you can simply open the properties of the BWAV file, copy the name, and search for it that way!
+NOTE : In game composer list is not yet complete and will need time to make, thank you for your understanding.
 Stay frosty - PeaceHacker
 
  
