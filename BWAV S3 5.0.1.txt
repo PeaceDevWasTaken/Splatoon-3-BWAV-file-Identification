@@ -8,7 +8,7 @@ BGM_Jukebox_Gambit_LastBoss_Shiokara.bwav = Hero Mode / Story Mode final Boss Mu
 Song Name : Calamari Inkantation 3MIX
 In Game Song Composer : Deep Cut x Squid Sisters
 
-BGM_Plaza_Fes_Day2_IdolSong = No Description
+BGM_Plaza_Fes_Day2_IdolSong.bwav = No Description
 Song Name : Anarchy Rainbow
 In Game Song Composer : Deep Cut
 
