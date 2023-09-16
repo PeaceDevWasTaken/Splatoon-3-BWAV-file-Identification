@@ -4,6 +4,10 @@ This repo focuses mainly on music.
 
 This repo is WIP so expect things to change.
 
+BGM_Plaza_Fes_Day2_IdolSong = No Description
+Song Name : Anarchy Rainbow
+In Game Song Composer : Deep Cut
+
 BGM_Plaza_Fes_Day1_BaseMusic.bwav = Festival title screen music / Background ambiance
 Song Name : Unknown/None
 In Game Song Composer : Unknown/None
