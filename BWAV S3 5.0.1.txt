@@ -1,0 +1,11 @@
+This is a list identifying songs based on the ingame .BWAV file names. Take this as a tool/guide to use for when you mod your game. Note that with every revision of S3 the game may change more and more.
+Note that this list is in no particular order, you can use ctrl + f to search this repo for file names.
+This repo focuses mainly on music.
+
+BGM_Plaza_Fes_Day1_BaseMusic.bwav = Festival title screen music / Background ambiance
+Song Name : Unknown/None
+In Game Song Composer : Unknown/None
+
+BGM_Versus_Thunder_02_Mastering.bwav = No Description
+Song Name : Splattack!
+In Game Song Composer : C-Side
