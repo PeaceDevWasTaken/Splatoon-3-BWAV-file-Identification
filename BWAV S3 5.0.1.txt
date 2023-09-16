@@ -1,8 +1,7 @@
-This is a list identifying songs based on the ingame .BWAV file names. Take this as a tool/guide to use for when you mod your game. Note that with every revision of S3 the game may change more and more.
-Note that this list is in no particular order, you can use ctrl + f to search this repo for file names.
-This repo focuses mainly on music.
-
-This repo is WIP so expect things to change.
+This Repo is a WIP so expect changes.
+Welcome to the central hub for Identifying Splatoon 3 music/audio file names/descriptions!
+Please use CTRL + F on your keyboard to search for your file name, you can simply open the properties of the BWAV file, copy the name, and search for it that way!
+Stay frosty - PeaceHacker
 
 BWAV ammount known (how many of this file I know exists) = 2
 BGM_Jukebox_Gambit_LastBoss_Shiokara.bwav
