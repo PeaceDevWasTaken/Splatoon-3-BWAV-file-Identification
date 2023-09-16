@@ -2,6 +2,8 @@ This is a list identifying songs based on the ingame .BWAV file names. Take this
 Note that this list is in no particular order, you can use ctrl + f to search this repo for file names.
 This repo focuses mainly on music.
 
+This repo is WIP so expect things to change.
+
 BGM_Plaza_Fes_Day1_BaseMusic.bwav = Festival title screen music / Background ambiance
 Song Name : Unknown/None
 In Game Song Composer : Unknown/None
